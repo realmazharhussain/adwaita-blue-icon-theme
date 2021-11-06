@@ -5,7 +5,7 @@
 
 # Maintainer: Your Name <youremail@domain.com>
 pkgname=adwaita-blue-icon-theme
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="Adwaita icon theme with blue folder icons"
 arch=(any)
