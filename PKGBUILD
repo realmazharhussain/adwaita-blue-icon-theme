@@ -1,4 +1,4 @@
-# Maintainer: Your Name <youremail@domain.com>
+# Maintainer: Mazhar Hussain <mmazharhussainkgb1145@gmail.com>
 pkgname=adwaita-blue-icon-theme
 pkgver=1.0.1
 pkgrel=1
