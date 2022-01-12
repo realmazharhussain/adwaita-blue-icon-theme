@@ -8,8 +8,8 @@ Adwaita icon theme but folder icons are blue
 
 ### For single user
 
-Download the zip file and extract it to `$HOME/.local/share/icons/` 
+Download the zip file and extract folder `Adwaita-Blue` from it to `$HOME/.local/share/icons/` 
 
 ### System-wide
 
-Download the zip file and extract it to `/usr/share/icons/`
+Download the zip file and extract folder `Adwaita-Blue` from it to `/usr/share/icons/`
